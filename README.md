@@ -30,7 +30,7 @@ Prep-Ai is a modern web-based interview preparation and practice platform that h
 ---
 
 ## 📁 Project Structure
-
+```
 ├─ app/ # Main application pages & layout
 ├─ components/ # Reusable UI components
 ├─ data/ # Static data (interview questions)
@@ -41,7 +41,7 @@ Prep-Ai is a modern web-based interview preparation and practice platform that h
 ├─ package.json
 ├─ tailwind.config.js
 └─ README.md
-
+```
 ---
 
 ## 📥 Installation
